@@ -1,0 +1,4 @@
+rootProject.name = 'PointOfSale'
+include 'HappyZone'
+findProject(':HappyZone')?.name = 'PointOfSale'
+

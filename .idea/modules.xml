@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HolidayCheck-2017-PointOfSale.iml" filepath="$PROJECT_DIR$/.idea/modules/HolidayCheck-2017-PointOfSale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PointOfSale.iml" filepath="$PROJECT_DIR$/.idea/modules/PointOfSale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale.iml" filepath="$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale.iml" group="PointOfSale" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale_main.iml" group="PointOfSale" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HappyZone/PointOfSale-PointOfSale_test.iml" group="PointOfSale" />
+    </modules>
+  </component>
+</project>
